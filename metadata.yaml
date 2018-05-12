@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4981'
     url: http://www.gutenberg.org/2009/agents/4981
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15446#Vocal-Mastery--13-Talks-with-Master-Singers-and-Teachers-Comprising-Interviews-with-Caruso-Fa_
 gutenberg_bookshelf: Music
 gutenberg_issued: '2005-03-23'
 gutenberg_type: Text
